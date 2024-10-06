@@ -4,4 +4,5 @@ public class secondClass {
     boolean isit = true;
     public int m;
     public String name1;
+    public String name2;
 }
